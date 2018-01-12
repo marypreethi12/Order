@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marypreethi12/Order/issues"
   },
-  "homepage": "https://github.com/marypreethi12/Order#readme"
+  "homepage": "https://github.com/marypreethi12/Order#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
